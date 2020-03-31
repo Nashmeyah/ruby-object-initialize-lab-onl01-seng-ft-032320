@@ -10,8 +10,4 @@ class Person
   def name
     @name
   end
-
-  def breed
-    @breed
-  end
 end
