@@ -18,4 +18,3 @@ class Person
     @breed
   end
 end
-
